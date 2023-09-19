@@ -1,15 +1,6 @@
 <!--   my-header-img -->
 ![](./src/header_.png)
 
-<p align="center"> 
-
-<img src="./src/credly0.png" alt="ibm" width="100%">
-<img src="./src/credly1.png" alt="ibm" width="100%">
-<img src="./src/credly2.png" alt="ibm" width="100%">
-
-</p>
-
-
 
 #### Thanks for visiting :heart:
 
